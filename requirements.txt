@@ -1,1 +1,10 @@
-
+torch
+torchvision
+timm
+einops
+numpy
+matplotlib
+tqdm
+pywt
+scikit-learn
+transformers
